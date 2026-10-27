@@ -1,4 +1,4 @@
-# 2. Olasılık ve Bayes Düşüncesi
+# 3. Olasılık ve Bayes Düşüncesi
 
 ## Koşullu Olasılık
 
@@ -21,4 +21,4 @@ Neden? Çünkü masum işlemler o kadar çok ki, onların küçük bir yüzdesi 
 
 ---
 
-[← 1. Veriyi Özetlemek: Tanımlayıcı İstatistik](01_tanimlayici_istatistik.md) · [Bölümler](../README.md#bölümler) · [3. Dağılımlar: Verinin Şekli →](03_dagilimlar.md)
+[← 2. Veriyi Özetlemek: Tanımlayıcı İstatistik](02_tanimlayici_istatistik.md) · [Bölümler](../README.md#bölümler) · [4. Dağılımlar: Verinin Şekli →](04_dagilimlar.md)

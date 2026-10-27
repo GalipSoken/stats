@@ -1,4 +1,4 @@
-# 7. Model Değerlendirme
+# 10. Model Değerlendirme
 
 ## Overfitting: Ezberleme Problemi
 
@@ -65,4 +65,4 @@ Model "%30 risk" diyorsa, bu müşterilerin gerçekten yaklaşık %30'u mu temer
 
 ---
 
-[← 6. Korelasyon ve Regresyon](06_korelasyon_ve_regresyon.md) · [Bölümler](../README.md#bölümler) · [8. Zaman Serisi Temelleri →](08_zaman_serisi.md)
+[← 9. Temel Bileşenler Analizi (PCA)](09_temel_bilesenler_analizi.md) · [Bölümler](../README.md#bölümler) · [11. Zaman Serisi Temelleri →](11_zaman_serisi_temelleri.md)
