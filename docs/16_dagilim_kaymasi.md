@@ -1,4 +1,4 @@
-# 10. Canlıdaki Model: Dağılım Kayması
+# 16. Canlıdaki Model: Dağılım Kayması
 
 Model geliştirildiği gün mükemmel olabilir; ama dünya değişir. Faiz ortamı, müşteri profili, ekonomik koşullar değişince modelin gördüğü veri de değişir.
 
@@ -13,4 +13,4 @@ Model geliştirildiği gün mükemmel olabilir; ama dünya değişir. Faiz ortam
 
 ---
 
-[← 9. Nedensellik ve Bayesçi Düşünce](09_nedensellik_ve_bayesci_dusunce.md) · [Bölümler](../README.md#bölümler) · [11. Özet Kontrol Listesi →](11_kontrol_listesi.md)
+[← 15. Nedensellik ve Bayesçi Düşünce](15_nedensellik_ve_bayesci_dusunce.md) · [Bölümler](../README.md#bölümler) · [17. Özet Kontrol Listesi →](17_kontrol_listesi.md)

@@ -1,4 +1,4 @@
-# 4. Örneklem ve Tahmin
+# 5. Örneklem ve Tahmin
 
 Tüm müşterileri inceleyemeyiz; bir **örneklem** alır, oradan genel resmi tahmin ederiz. Bu bölüm, bu tahmine ne kadar güvenebileceğimizi anlatır.
 
@@ -31,4 +31,4 @@ Formül bilmeden güven aralığı bulmanın yolu: Elindeki veriden **iade edere
 
 ---
 
-[← 3. Dağılımlar: Verinin Şekli](03_dagilimlar.md) · [Bölümler](../README.md#bölümler) · [5. Hipotez Testleri →](05_hipotez_testleri.md)
+[← 4. Dağılımlar: Verinin Şekli](04_dagilimlar.md) · [Bölümler](../README.md#bölümler) · [6. Hipotez Testleri →](06_hipotez_testleri.md)

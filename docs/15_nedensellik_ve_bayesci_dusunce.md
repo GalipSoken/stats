@@ -1,4 +1,4 @@
-# 9. Nedensellik ve Bayesçi Düşünce
+# 15. Nedensellik ve Bayesçi Düşünce
 
 ## Karıştırıcı Değişkenler ve Simpson Paradoksu
 
@@ -26,4 +26,4 @@ Klasik istatistik "veri ne diyor?" diye sorar. Bayesçi yaklaşım ise **önceki
 
 ---
 
-[← 8. Zaman Serisi Temelleri](08_zaman_serisi.md) · [Bölümler](../README.md#bölümler) · [10. Canlıdaki Model: Dağılım Kayması →](10_dagilim_kaymasi.md)
+[← 14. VAR ve VECM: Birbirini Etkileyen Seriler](14_var_vecm.md) · [Bölümler](../README.md#bölümler) · [16. Canlıdaki Model: Dağılım Kayması →](16_dagilim_kaymasi.md)
