@@ -4,8 +4,6 @@
 
 Bu repo, bir data scientist'in her gün kullandığı istatistik fikirlerini **sezgisel olarak** anlatan Türkçe bir rehberdir. Amaç formül ezberletmek değil; bir grafiğe, bir model çıktısına, bir A/B testi ya da zaman serisi sonucuna bakınca **doğru soruyu sorabilmeyi** öğretmek. Örneklerin çoğu bankacılık dünyasından: fraud alarmları, temerrüt, kredi skoru, faiz, kur ve mevduat.
 
-![Bayes ızgarası](docs/img/03_bayes_izgara.png)
-
 ## Bölümler
 
 ### Temeller
